@@ -1,8 +1,8 @@
-algoritmo "semnome"
-// Função :
+algoritmo "Flavio, INF221"
+// FunÃ§Ã£o :
 // Autor :
 // Data : 24/02/2024
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 vendedor: LITERAL
 salario, vendasTotal, resultado: REAL
@@ -15,24 +15,25 @@ ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 LEIA(vendedor)
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~")
 ESCREVAL("Vendedor: ", vendedor)
-ESCREVAL("Insira o salário fixo")
+ESCREVAL("Insira o salÃ¡rio fixo")
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 LEIA(salario)
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~")
 ESCREVAL("Vendedor: ", vendedor)
-ESCREVAL("Salário fixo:", salario)
+ESCREVAL("SalÃ¡rio fixo:", salario)
 ESCREVAL("Insira as vendas totais em dinheiro")
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 LEIA(vendasTotal)
 
 resultado := salario + (vendasTotal*15/100)
+// ou vendasTotal*0.15
 
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~")
 ESCREVAL("Vendedor: ", vendedor)
-ESCREVAL("Salário fixo:", salario)
-ESCREVAL("Salário final:", resultado)
+ESCREVAL("SalÃ¡rio fixo:", salario)
+ESCREVAL("SalÃ¡rio final:", resultado)
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 
 
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo
