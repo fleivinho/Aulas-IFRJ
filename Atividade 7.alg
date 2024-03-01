@@ -1,8 +1,8 @@
 algoritmo "Flavio, INF221"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 24/02/2024
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 c: INTEIRO
 
@@ -13,7 +13,7 @@ ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 LEIA(c)
 
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~")
-ESCREVAL("Tempetatura em Fº: ", (9*c+160))
+ESCREVAL("Tempetatura em FÂº: ", (9*c+160)/5)
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 
 fimalgoritmo
