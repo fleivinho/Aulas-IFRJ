@@ -1,8 +1,8 @@
 algoritmo "Flavio, INF221"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 01/03/2024
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 depositado: real
 inicio
