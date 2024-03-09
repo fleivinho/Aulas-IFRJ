@@ -1,19 +1,19 @@
 algoritmo "Flavio, INF221"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 01/03/2024
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 custo: real
 porcentagem: inteiro
 
 inicio
-escreval("Insira o preço de custo.")
+escreval("Insira o preÃ§o de custo.")
 leia(custo)
 
 escreval("Qual porcentagem deseja?")
 leia(porcentagem)
 
-escreval("Valor de venda com acréscimo de %", porcentagem, ": R$", (custo + (custo*porcentagem)/100))
+escreval("Valor de venda com acrÃ©scimo de %", porcentagem, ": R$", (custo + (custo*porcentagem)/100))
 
 fimalgoritmo
