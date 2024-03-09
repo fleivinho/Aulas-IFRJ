@@ -1,14 +1,14 @@
-algoritmo "Fl·vio INF221"
-// FunÁ„o :
+algoritmo "Fl√°vio INF221"
+// Fun√ß√£o :
 // Autor :
 // Data : 24/02/2024
-// SeÁ„o de DeclaraÁıes 
+// Se√ß√£o de Declara√ß√µes 
 var
 media, distancia, combustivel: INTEIRO
 
 inicio
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~")
-ESCREVAL("Insira a dist‚ncia")
+ESCREVAL("Insira a dist√¢ncia")
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 LEIA(distancia)
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~")
@@ -18,10 +18,10 @@ ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 LEIA(combustivel)
 
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~")
-ESCREVAL("Dist‚ncia percorrida: ", distancia, " km(s)")
+ESCREVAL("Dist√¢ncia percorrida: ", distancia, " km(s)")
 ESCREVAL("Combustivel gasto: ", combustivel, " litro(s)")
-ESCREVAL("MÈdia: ", (distancia / combustivel))
+ESCREVAL("M√©dia: ", (distancia / combustivel))
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 
-// SeÁ„o de Comandos 
+// Se√ß√£o de Comandos 
 fimalgoritmo
