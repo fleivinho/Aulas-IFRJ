@@ -1,8 +1,8 @@
 algoritmo "Flavio, INF211"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 01/03/2024
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 nome: literal
 nota1, nota2, nota3: real
@@ -29,8 +29,8 @@ escreval("~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 leia(nota3)
 
 escreval("~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-escreval("Média de ", nome, ": ", ((nota1 + nota2 + nota3)/3), " pontos")
+escreval("MÃ©dia de ", nome, ": ", ((nota1 + nota2 + nota3)/3), " pontos")
 escreval("~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo
