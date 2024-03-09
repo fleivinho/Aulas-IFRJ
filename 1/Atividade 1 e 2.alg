@@ -1,8 +1,8 @@
 algoritmo "Flavio, INF221"
-// FunÁ„o :
+// Fun√ß√£o :
 // Autor :
 // Data : 24/02/2024
-// SeÁ„o de DeclaraÁıes 
+// Se√ß√£o de Declara√ß√µes 
 var
 tipo, nota1, nota2, resultado: real
 
@@ -18,8 +18,8 @@ ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 LEIA(nota2)
 
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-ESCREVAL("Qual mÈtodo deseja aplicar?")
-ESCREVAL("AdiÁao (0), SubtraÁ„o (1), MultiplicaÁ„o (2), Divis„o (3)")
+ESCREVAL("Qual m√©todo deseja aplicar?")
+ESCREVAL("Adi√ßao (0), Subtra√ß√£o (1), Multiplica√ß√£o (2), Divis√£o (3)")
 ESCREVAL("Insira o valor numerico representante")
 ESCREVAL("Valores inseridos: ", nota1, " e ", nota2)
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
@@ -42,7 +42,7 @@ SE tipo = 3 ENTAO
 FIMSE
 
 SE tipo > 3 ENTAO
-   ESCREVAL("Valor inv·lido, feche e tente novamente.")
+   ESCREVAL("Valor inv√°lido, feche e tente novamente.")
    fimalgoritmo
 FIMSE
 
@@ -52,5 +52,5 @@ ESCREVAL("Valores inseridos: ", nota1, "(1), ", nota2, "(2)")
 ESCREVAL("Resultado final:", resultado)
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 
-// SeÁ„o de Comandos 
+// Se√ß√£o de Comandos 
 fimalgoritmo
