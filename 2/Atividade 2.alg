@@ -1,8 +1,8 @@
 algoritmo "Flavio, INF221"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 09/03/2024
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 val, val2: inteiro
 inicio
@@ -14,14 +14,14 @@ escreva("Insira o segundo valor: ")
 leia(val2)
 
 SE val > val2 ENTAO
-   ESCREVAL("O valor ", val, " é maior que ", val2)
+   ESCREVAL("O valor ", val, " Ã© maior que ", val2)
    fimalgoritmo
 FIMSE
 
 SE val2 > val ENTAO
-   ESCREVAL("O valor ", val2, " é maior que ", val)
+   ESCREVAL("O valor ", val2, " Ã© maior que ", val)
    fimalgoritmo
 FIMSE
 
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo
