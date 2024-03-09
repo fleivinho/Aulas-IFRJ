@@ -1,14 +1,14 @@
 algoritmo "Flavio, INF221"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 24/02/2024
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 dolar, quantia, resultado: REAL
 
 inicio
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~")
-ESCREVAL("Insira a cotação do dolar")
+ESCREVAL("Insira a cotaÃ§Ã£o do dolar")
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 LEIA(dolar)
 
@@ -20,9 +20,9 @@ LEIA(quantia)
 resultado := dolar * quantia
 
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~")
-ESCREVAL("Você posui R$ ", resultado)
+ESCREVAL("VocÃª posui R$ ", resultado)
 ESCREVAL("~~~~~~~~~~~~~~~~~~~~~~~")
 
 
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 fimalgoritmo
